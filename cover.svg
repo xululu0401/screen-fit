@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#f1efea"/>
+  <rect x="60" y="60" width="1080" height="1080" rx="24" fill="#ffffff"/>
+  <text x="140" y="200" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="104" font-weight="700" fill="#1d1f24">幕布别买大了</text>
+  <text x="140" y="268" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="36" fill="#878a92">墙、座位、投影机、亮度，四关都过才是对的尺寸</text>
+  <rect x="226.66666666666669" y="330" width="746.6666666666666" height="560" fill="#efece4" stroke="#b9b4a8" stroke-width="2"/>
+  <line x1="120" y1="890" x2="1080" y2="890" stroke="#9a958a" stroke-width="4"/>
+  <rect x="388.8" y="527.9" width="422.4" height="237.6" fill="rgba(44,106,72,.12)" stroke="#2c6a48" stroke-width="6"/>
+  <rect x="324.5" y="455.6" width="551.0" height="309.9" fill="none" stroke="#b13a2b" stroke-width="5" stroke-dasharray="18 12"/>
+  <text x="600" y="657" text-anchor="middle" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="72" font-weight="700" fill="#2c6a48">✓ 92 寸</text>
+  <text x="600" y="438" text-anchor="middle" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="38" font-weight="700" fill="#b13a2b">✗ 120 寸：坐 3 米视角 47.8°，太近</text>
+  <text x="140" y="970" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="34" fill="#4c505a">92 寸：视角 37.5° · 205 nit · 投影机放 2600–3055 mm</text>
+  <text x="140" y="1030" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="28" fill="#878a92">虚构示例：墙 3600 · 层高 2700 · 投射比 1.2–1.5 · 2000 流明</text>
+</svg>
